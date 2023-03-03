@@ -1,1 +1,1 @@
-# ALX_SE
+# alx-pre_course
